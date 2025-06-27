@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hello World",
+    "description": "Ein einfaches Beispiel-Plugin, das 'Hello World' ausgibt.",
+    "version": "1.0.0",
+    "author": "Lianomeister",
+    "category": "Demo",
+    "path": "hello_world/",
+    "icon": "",
+    "dependencies": []
+  },
+  {
+    "name": "System Monitor",
+    "description": "Zeigt die aktuelle CPU- und RAM-Auslastung an.",
+    "version": "1.0.0",
+    "author": "Lianomeister",
+    "category": "System",
+    "path": "system_monitor/",
+    "icon": "",
+    "dependencies": ["psutil"]
+  }
+] 
