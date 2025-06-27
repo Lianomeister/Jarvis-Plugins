@@ -1,0 +1,10 @@
+vosk
+sounddevice
+pyautogui
+pywin32
+tk
+ttkbootstrap
+pyttsx3
+requests
+flask
+watchdog 

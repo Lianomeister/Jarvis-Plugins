@@ -18,5 +18,15 @@
     "path": "system_monitor/",
     "icon": "",
     "dependencies": ["psutil"]
+  },
+  {
+    "name": "Whats Up",
+    "description": "Öffnet den Editor mit dem Text 'whaats upp!?' wenn du 'whats up?' sagst.",
+    "version": "1.0.0",
+    "author": "Community",
+    "category": "Fun",
+    "path": "whats_up/",
+    "icon": "",
+    "dependencies": []
   }
 ] 

@@ -1,0 +1,136 @@
+2025-06-27 19:02:30,147 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-06-27 19:02:30,148 INFO: [33mPress CTRL+C to quit[0m
+2025-06-27 19:02:30,428 INFO: Could not import comtypes.gen, trying to create it.
+2025-06-27 19:02:30,429 INFO: Created comtypes.gen directory: 'C:\Users\irisb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\comtypes\gen'
+2025-06-27 19:02:30,430 INFO: Writing __init__.py file: 'C:\Users\irisb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\comtypes\gen\__init__.py'
+2025-06-27 19:02:30,442 INFO: Using writeable comtypes cache directory: 'C:\Users\irisb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\comtypes\gen'
+2025-06-27 19:02:30,493 INFO: Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2025-06-27 19:02:30,508 INFO: # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-06-27 19:02:30,588 INFO: # Generating comtypes.gen.SpeechLib
+2025-06-27 19:02:30,595 INFO: Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-06-27 19:02:30,596 INFO: # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-06-27 19:02:30,607 INFO: # Generating comtypes.gen.stdole
+2025-06-27 19:02:31,506 INFO: Gefundene Mikrofone:
+Microsoft Soundmapper - Input (Index 0)
+Headset Microphone (Oculus Virt (Index 1)
+CABLE Output (VB-Audio Virtual  (Index 2)
+Microphone (High Definition Aud (Index 3)
+Mikrofon (Voicemod Virtual Audi (Index 4)
+Mikrofon (Voice Changer Virtual (Index 5)
+Mikrofon (DroidCam Audio) (Index 6)
+Mikrofon (Iriun Webcam) (Index 7)
+Mikrofon (TONOR TC30 Audio Devi (Index 8)
+Primärer Soundaufnahmetreiber (Index 17)
+Headset Microphone (Oculus Virtual Audio Device) (Index 18)
+CABLE Output (VB-Audio Virtual Cable) (Index 19)
+Microphone (High Definition Audio Device) (Index 20)
+Mikrofon (Voicemod Virtual Audio Device (WDM)) (Index 21)
+Mikrofon (Voice Changer Virtual Audio Device (WDM)) (Index 22)
+Mikrofon (DroidCam Audio) (Index 23)
+Mikrofon (Iriun Webcam) (Index 24)
+Mikrofon (TONOR TC30 Audio Device) (Index 25)
+CABLE Output (VB-Audio Virtual Cable) (Index 41)
+Microphone (High Definition Audio Device) (Index 42)
+Mikrofon (Voicemod Virtual Audio Device (WDM)) (Index 43)
+Mikrofon (Voice Changer Virtual Audio Device (WDM)) (Index 44)
+Headset Microphone (Oculus Virtual Audio Device) (Index 45)
+Mikrofon (DroidCam Audio) (Index 46)
+Mikrofon (Iriun Webcam) (Index 47)
+Mikrofon (TONOR TC30 Audio Device) (Index 48)
+Mikrofon (Voicemod VAD Wave) (Index 49)
+Mikrofon (HD Audio Microphone) (Index 51)
+Mikrofon (MFDriver Virtual Audio) (Index 54)
+Headset Microphone (OCULUSVAD Wave Microphone Headphone) (Index 56)
+Input (OCULUSVAD Wave Speaker Headphone) (Index 59)
+MIDI (Wave) (Index 60)
+CABLE Output (VB-Audio Point) (Index 63)
+MIDI (Iriun Webcam Audio) (Index 65)
+Mikrofon (TONOR TC30 Audio Device) (Index 66)
+2025-06-27 19:03:15,263 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-06-27 19:03:15,263 INFO: [33mPress CTRL+C to quit[0m
+2025-06-27 19:03:15,357 INFO: Imported existing <module 'comtypes.gen' from 'C:\\Users\\irisb\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-27 19:03:15,357 INFO: Using writeable comtypes cache directory: 'C:\Users\irisb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\comtypes\gen'
+2025-06-27 19:03:15,688 INFO: Gefundene Mikrofone:
+Microsoft Soundmapper - Input (Index 0)
+Headset Microphone (Oculus Virt (Index 1)
+CABLE Output (VB-Audio Virtual  (Index 2)
+Microphone (High Definition Aud (Index 3)
+Mikrofon (Voicemod Virtual Audi (Index 4)
+Mikrofon (Voice Changer Virtual (Index 5)
+Mikrofon (DroidCam Audio) (Index 6)
+Mikrofon (Iriun Webcam) (Index 7)
+Mikrofon (TONOR TC30 Audio Devi (Index 8)
+Primärer Soundaufnahmetreiber (Index 17)
+Headset Microphone (Oculus Virtual Audio Device) (Index 18)
+CABLE Output (VB-Audio Virtual Cable) (Index 19)
+Microphone (High Definition Audio Device) (Index 20)
+Mikrofon (Voicemod Virtual Audio Device (WDM)) (Index 21)
+Mikrofon (Voice Changer Virtual Audio Device (WDM)) (Index 22)
+Mikrofon (DroidCam Audio) (Index 23)
+Mikrofon (Iriun Webcam) (Index 24)
+Mikrofon (TONOR TC30 Audio Device) (Index 25)
+CABLE Output (VB-Audio Virtual Cable) (Index 41)
+Microphone (High Definition Audio Device) (Index 42)
+Mikrofon (Voicemod Virtual Audio Device (WDM)) (Index 43)
+Mikrofon (Voice Changer Virtual Audio Device (WDM)) (Index 44)
+Headset Microphone (Oculus Virtual Audio Device) (Index 45)
+Mikrofon (DroidCam Audio) (Index 46)
+Mikrofon (Iriun Webcam) (Index 47)
+Mikrofon (TONOR TC30 Audio Device) (Index 48)
+Mikrofon (Voicemod VAD Wave) (Index 49)
+Mikrofon (HD Audio Microphone) (Index 51)
+Mikrofon (MFDriver Virtual Audio) (Index 54)
+Headset Microphone (OCULUSVAD Wave Microphone Headphone) (Index 56)
+Input (OCULUSVAD Wave Speaker Headphone) (Index 59)
+MIDI (Wave) (Index 60)
+CABLE Output (VB-Audio Point) (Index 63)
+MIDI (Iriun Webcam Audio) (Index 65)
+Mikrofon (TONOR TC30 Audio Device) (Index 66)
+2025-06-27 19:03:38,275 INFO: Erkannt:
+2025-06-27 19:03:38,280 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:03:38,280 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:03:43,276 INFO: Erkannt:
+2025-06-27 19:03:43,281 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:03:43,281 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:03:48,799 INFO: Erkannt:
+2025-06-27 19:03:48,804 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:03:48,804 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:03:54,304 INFO: Erkannt:
+2025-06-27 19:03:54,310 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:03:54,310 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:03:59,316 INFO: Erkannt:
+2025-06-27 19:03:59,322 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:03:59,322 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:04:04,328 INFO: Erkannt:
+2025-06-27 19:04:04,333 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:04:04,333 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:04:09,329 INFO: Erkannt:
+2025-06-27 19:04:09,335 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:04:09,335 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:04:14,351 INFO: Erkannt:
+2025-06-27 19:04:14,356 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:04:14,357 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:04:19,367 INFO: Erkannt:
+2025-06-27 19:04:19,373 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:04:19,373 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:04:24,195 INFO: Erkannt: öffne editor
+2025-06-27 19:04:29,208 INFO: Erkannt:
+2025-06-27 19:04:29,214 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:04:29,214 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:04:32,216 INFO: Erkannt: starte chrome
+2025-06-27 19:04:37,228 INFO: Erkannt:
+2025-06-27 19:04:37,233 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:04:37,233 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:04:41,236 INFO: Erkannt: desktop anzeigen
+2025-06-27 19:04:46,256 INFO: Erkannt:
+2025-06-27 19:04:46,262 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:04:46,262 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:04:51,276 INFO: Erkannt:
+2025-06-27 19:04:51,286 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:04:51,287 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:04:56,276 INFO: Erkannt:
+2025-06-27 19:04:56,281 ERROR: TTS Fehler: run loop already started
+2025-06-27 19:04:56,281 INFO: Befehl nicht erkannt oder noch nicht implementiert.
+2025-06-27 19:05:01,783 INFO: Erkannt: system info anzeigen
